@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "7527",
+      "gender": "female",
+      "name": "Jane Smith",
+      "phone": "9876543210"
+    },
+    {
+      "id": "34f2",
+      "gender": "male",
+      "name": "Charlie Davis",
+      "phone": "3335557890"
+    }
+  ]
+}
